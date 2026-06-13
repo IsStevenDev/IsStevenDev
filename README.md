@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Steven Marimón! 👋</h1>
+<h1 align="center">¡Hola, soy Steven Marimon! 👋</h1>
 
 <p align="center">
   Estudiante de Programación Web — Corporación Universitaria del Litoral · Barranquilla, Colombia
